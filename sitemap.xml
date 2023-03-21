@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/2023/03/20/[%E6%BC%AB%E6%AD%A5%E5%85%B6%E4%B8%80]%E9%9C%93%E8%99%B9%E7%81%AF%E4%B8%8E%E5%A4%9C%E8%A1%8C/</loc>
+    
+    <lastmod>2023-03-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/2023/03/17/Atomic%20Heart/</loc>
     
     <lastmod>2023-03-21</lastmod>
@@ -41,6 +50,13 @@
   
   <url>
     <loc>http://example.com/categories/%E6%B8%B8%E6%88%8F%E4%B8%8E%E6%88%91%E7%9A%84%E6%84%9F%E6%83%B3/</loc>
+    <lastmod>2023-03-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/%E9%9A%8F%E4%BE%BF%E5%86%99%E5%86%99%E7%9A%84%E5%B0%8F%E6%96%87%E7%AB%A0/</loc>
     <lastmod>2023-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
