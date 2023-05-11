@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.summoe.top/post/7f31e290.html</loc>
+    
+    <lastmod>2023-05-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://www.summoe.top/post/239e4a57.html</loc>
     
     <lastmod>2023-05-11</lastmod>
@@ -126,6 +135,27 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>http://www.summoe.top/tags/Linux/</loc>
+    <lastmod>2023-05-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.summoe.top/tags/Docker/</loc>
+    <lastmod>2023-05-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.summoe.top/tags/%E6%8A%80%E6%9C%AF%E5%90%91/</loc>
+    <lastmod>2023-05-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 
   
