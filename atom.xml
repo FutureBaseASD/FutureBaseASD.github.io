@@ -58,9 +58,9 @@
     
     <category term="Linux" scheme="http://www.summoe.top/tags/Linux/"/>
     
-    <category term="Docker" scheme="http://www.summoe.top/tags/Docker/"/>
-    
     <category term="技术向" scheme="http://www.summoe.top/tags/%E6%8A%80%E6%9C%AF%E5%90%91/"/>
+    
+    <category term="Docker" scheme="http://www.summoe.top/tags/Docker/"/>
     
   </entry>
   
